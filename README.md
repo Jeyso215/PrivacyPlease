@@ -50,6 +50,8 @@ The extension supports multiple frontends for each service. You can pick your pr
 
 ### 🦊 Firefox
 
+Firefox Addons: https://addons.mozilla.org/en-US/firefox/addon/privacy-please/
+
 1. Download the `.xpi` file from the [Releases](https://github.com/DoingFedTime/PrivacyRedirect/firefox/privacy-redirect.xpi) section.
 2. Open `about:debugging#/runtime/this-firefox`
 3. Click "Load Temporary Add-on…" and select the `manifest.json` inside the extracted folder
@@ -59,6 +61,7 @@ The extension supports multiple frontends for each service. You can pick your pr
 ---
 
 ### 🧩 Chrome / Chromium
+Chrome Store: https://chromewebstore.google.com/detail/privacy-please/pelceacokglomngpmedefbnlmmmpnlea
 
 1. Download the ZIP from the [Releases](https://github.com/DoingFedTime/PrivacyRedirect/chrome/privacy-redirect-chrome-fixed.zip)
 2. Extract it somewhere on your disk
