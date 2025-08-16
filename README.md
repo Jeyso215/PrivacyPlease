@@ -58,18 +58,6 @@ The extension supports multiple frontends for each service. You can pick your pr
 
 ## 🚀 Installation
 
-### 🦊 Firefox
-
-Firefox Addons: https://addons.mozilla.org/en-US/firefox/addon/privacy-please/
-
-1. Download the `.xpi` file from the [Releases](https://github.com/DoingFedTime/PrivacyRedirect/firefox/privacy-redirect.xpi) section.
-2. Open `about:debugging#/runtime/this-firefox`
-3. Click "Load Temporary Add-on…" and select the `manifest.json` inside the extracted folder
-
-> Permanent installation will be available via [addons.mozilla.org](https://addons.mozilla.org/) once approved.
-
----
-
 ### 🧩 Chrome / Chromium
 Chrome Store: https://chromewebstore.google.com/detail/privacy-please/pelceacokglomngpmedefbnlmmmpnlea
 
